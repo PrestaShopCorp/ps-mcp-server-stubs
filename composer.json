@@ -11,7 +11,7 @@
     },
     "autoload": {
         "classmap": [
-            "stubs/"
+            "ps-mcp-server.php"
         ]
     }
 }
