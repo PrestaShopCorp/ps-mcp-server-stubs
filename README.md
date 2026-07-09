@@ -44,8 +44,8 @@ public function isMcpCompliant(): bool
 
 ## Versioning
 
-Versions follow `ps_mcp_server` releases. When `ps_mcp_server` v1.2.3 is released, `ps-mcp-server-stubs` v1.2.3 is published with matching stubs.
+Versions follow `ps_mcp_server` releases.
 
 ## License
 
-AFL-3.0
+Proprietary — Copyright (c) PrestaShop SA. All Rights Reserved.
